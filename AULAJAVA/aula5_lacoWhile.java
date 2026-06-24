@@ -6,5 +6,14 @@ public class aula5_lacoWhile {
             System.out.println("Contador " + contador);
             contador++;
         }
+        int energia = 0;
+
+            do{
+                System.out.println("Testando While");
+            }
+            while(energia >0);
+
     }
+
+    
 }
