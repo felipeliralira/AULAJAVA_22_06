@@ -4,6 +4,6 @@ public class Aula09_ClasseAtributos{
         meuCarro.modelo = "Eclipse";
         meuCarro.cor = "Preto com Branco";
         meuCarro.ano = 2005;
-        System.out.println("")
+        System.out.println("Meu carro é um: " + meuCarro.modelo + " cor: "+ meuCarro.cor + " ano: " + meuCarro.ano);
     }
 }
