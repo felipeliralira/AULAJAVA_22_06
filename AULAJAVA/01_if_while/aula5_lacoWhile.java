@@ -1,0 +1,19 @@
+public class aula5_lacoWhile {
+
+    public static void main(String[] args) {
+        int contador = 1;
+        while (contador <=5) {
+            System.out.println("Contador " + contador);
+            contador++;
+        }
+        int energia = 0;
+
+            do{
+                System.out.println("Testando While");
+            }
+            while(energia >0);
+
+    }
+
+    
+}
